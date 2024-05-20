@@ -1,0 +1,39 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build files
+/dist
+/build
+
+# Ignore user and system files
+.bash_history
+.gitconfig
+.lesshst
+.vscode/
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.dat
+NTUSER.dat.bak.*
+NTUSER.dat.*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
